@@ -1,2 +1,2 @@
 # git-tutorial
-Learning basic of git
+create login procedure
